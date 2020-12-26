@@ -4,8 +4,6 @@
 
 ## Nice to meet you ☺️
 
-Veysel Furkan Sütşurup
-
 I'm a college student, now studying Computer Programming at Medipol Universty (Istanbul)
 
 ← This image was taken at [**Buyaka, CinemaPink**](https://foursquare.com/v/cinemapink/552a2838498e707ea4fc83e0) 🎬
