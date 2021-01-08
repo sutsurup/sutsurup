@@ -1,7 +1,3 @@
-<a href="https://github.com/sutsurup?tab=repositories">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=sutsurup&show_icons=true&hide_border=true&hide_rank=true&card_width=100" width="500px" />
-</a>
-
 ## Nice to meet you ☺️
 
 I'm a college student, now studying Computer Science at Medipol Universty (Istanbul)
