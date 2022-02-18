@@ -4,7 +4,7 @@
 
 ## Nice to meet you ☺️
 
-I'm a college student, now studying Computer Science at Medipol Universty (Istanbul)
+I've been working at Medipol University IT (Istanbul) since 2020.
 
 ← This image was taken at [**CinemaPink**](https://foursquare.com/v/cinemapink/552a2838498e707ea4fc83e0) 🎬
 
@@ -13,7 +13,7 @@ I'm a college student, now studying Computer Science at Medipol Universty (Istan
 [![Codeforces](https://img.shields.io/badge/-@sutsurup-269539?style=flat-square&logo=codeforces&logoColor=fff)](https://codeforces.com/profile/sutsurup)
 
 
-📝 I’m currently focusing on **Python**, and trying to learn **Swift (for iPhone App Design)**.
+📝 I’m currently focusing on learn **Swift**.
 
 🧗 I’m enthusiastic about **Web Development** and **iOS Dev.** Also know a little about **Hackintosh**.
  
