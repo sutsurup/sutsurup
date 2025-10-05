@@ -4,14 +4,15 @@
 
 ## Nice to meet you ☺️
 
-I am currently studying Visual Communication Design at Near East University, and I worked as an IT Specialist at Medipol University (Istanbul) from 2020 to 2024.
+I am currently studying **Visual Communication Design** at Near East University. I also served as an **IT Specialist** at Medipol University (Istanbul) from 2020 to 2024.
 
 [![Telegram](https://img.shields.io/badge/-@sutsurup-2CA5E0?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/sutsurup)
 [![Codeforces](https://img.shields.io/badge/-@sutsurup-269539?style=flat-square&logo=codeforces&logoColor=fff)](https://codeforces.com/profile/sutsurup)
 
+📝 **Current Focus**: Learning **Artificial Intelligence**.
 
-📝 I’m currently focusing on learn **Artificial intelligence**.
+🧗 **Enthusiastic About**: **Web Development** and **iOS Development**.
 
-🧗 I’m enthusiastic about **Web Development** and **iOS Development** Also know a little about **Hackintosh**.
- 
- ### 👇 Maybe you will be intersted in my projects! 🏆
+💻 **Technical Note**: I have knowledge of Hackintosh and enjoy sharing the projects I create
+
+#### Maybe you'll be interested in my projects! 🏆
