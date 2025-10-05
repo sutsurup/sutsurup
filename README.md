@@ -4,9 +4,7 @@
 
 ## Nice to meet you ☺️
 
-I've been working at Medipol University IT (Istanbul) since 2020.
-
-← This image was taken at [**IMU**](https://www.medipol.edu.tr) 🎬
+I am currently studying Visual Communication Design at Near East University, and I worked as an IT Specialist at Medipol University (Istanbul) from 2020 to 2024.
 
 [![Telegram](https://img.shields.io/badge/-@sutsurup-2CA5E0?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/sutsurup)
 [![Codeforces](https://img.shields.io/badge/-@sutsurup-269539?style=flat-square&logo=codeforces&logoColor=fff)](https://codeforces.com/profile/sutsurup)
